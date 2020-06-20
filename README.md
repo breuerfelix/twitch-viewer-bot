@@ -3,10 +3,11 @@
 __disclaimer:__ this project is an experiment and does not work!
 
 ```bash
+pip3 install -r requirements.txt
 python3 bot.py --help
 ```
 
-there are many comments in the code if you want to know how this works (or __not__ works).
+if you want to know how this works (or __not__ works), read the code. there are many comments.
 
 ### why is it not working?
 
