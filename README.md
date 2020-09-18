@@ -1,5 +1,7 @@
 # twitch viewer bot
 
+[![Run on Repl.it](https://repl.it/badge/github/breuerfelix/twitch-viewer-bot)](https://repl.it/github/breuerfelix/twitch-viewer-bot)
+
 __disclaimer:__ this project is an experiment and does not work!
 
 ```bash
