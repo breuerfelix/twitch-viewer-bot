@@ -5,3 +5,5 @@ uuid
 streamlink
 pyfiglet
 python-dotenv
+click
+python-dateutil
